@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282398074198', 'HANZ-OFC02', true],
-['6287841959988', 'ARA-CHAN', true]
+['6281294954569', 'OwnerBot', true],
+['6287841959988', 'DeveloperBot', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6281344845604'
 global.nomorown = '6287841959988'
 global.nomorown1 = '6287841959988'
-global.nomorown2 = '6282398074198'
+global.nomorown2 = '6281294954569'
 global.nomorwa = '0'
 
 
@@ -55,7 +55,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By REHAN'
-global.namebot = 'REHAN-BOT-MD'
+global.namebot = 'REHAN-BOT-WA'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 REHAN-BOT'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
@@ -63,14 +63,14 @@ global.wm2 = 'REHAN-BOT-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `REHAN X ARA`
-global.stickpack = 'REHAN X ARA'
-global.stickauth = `© REHAN-BOT-MD`
+global.titlebot = `REHAN-BOT-WA`
+global.stickpack = 'REHAN-BOT-WA'
+global.stickauth = `© TO1-PUNYA`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'HANZ-02'
-global.nameown2 = 'ARA-CHAN'
+global.nameown1= 'OwnerBot'
+global.nameown2 = 'DeveloperBot'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -79,7 +79,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
 global.sgh = 'https://github.com/user-erorr' //github
-global.sgc = 'https://chat.whatsapp.com/D7dz36ZSYazG5cGnpkdHwt' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/D7dz36ZSYazG5cGnpkdHkj' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
@@ -264,7 +264,7 @@ global.drtf = 'text/rtf'
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
+global.imagebot = 'https://telegra.ph/file/0d147f66b9fbedb80f750.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
 global.thumbnailUrl = [
@@ -274,8 +274,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/0d147f66b9fbedb80f750.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0d147f66b9fbedb80f750.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
